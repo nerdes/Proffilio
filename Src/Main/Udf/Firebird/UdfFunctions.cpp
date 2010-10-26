@@ -1,4 +1,9 @@
-#include "UdfFunctions.h"
+/*
+ * UdfFunctions.cpp
+ *
+ *  Created on: 25/10/2010
+ *      Author: Magno Machado
+ */
 
 int begin_procedure(char *name) {
 
